@@ -1,1 +1,32 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1619080371491-144258310aa5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80);
+    color: #FFF;
+}
 
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    border-radius: 50px;
+}
+
+li {
+    font-style: italic;
+}
+
+#Austin {
+    border: 3px solid blue;
+    background-color: rgb(75, 135, 190);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 25px;
+    margin: 10px;
+}
+
+#Quinesha {
+    border: 3px solid blue;
+    background-color: rgb(190, 75, 75);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 25px;
+    margin: 10px;
+}
